@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cine Dome</string>
+    <string name="no_movies">There are no movies</string>
+    <string name="actors">Actors:</string>
+    <string name="genre">Genre:</string>
+    <string name="duration">Duration:</string>
+    <string name="minutes">minutes</string>
+    <string name="ratings">Ratings:</string>
+    <string name="press">Press</string>
+    <string name="users">Users</string>
+    <string name="cine">Cine Dome</string>
+    <string name="place">Place:</string>
+    <string name="tickets">Tickets</string>
+    <string name="links">Links:</string>
+    <string name="trailer">Trailer</string>
+    <string name="weblink">Web link</string>
+</resources>
